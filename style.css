@@ -1,0 +1,73 @@
+body {
+    font-size: 15pt;
+    background-color: whitesmoke;
+}
+
+h3{
+  text-align: center;
+  font-weight: bold;
+  padding-top: 50px;
+  margin-top: 5px;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+form{
+  background-color: white;
+  width: 650px;
+  margin: auto;
+  border: 0.5px solid lightgrey;
+}
+
+input{
+  color: grey;
+  margin-bottom: 40px;
+  font-size: 19px;
+  padding-bottom: 9px;
+  border: none;
+  width: 450px;
+  border-bottom: 1px solid grey;
+  background-color: white;
+  outline-style: none;
+}
+
+#sc{
+  margin: auto;
+  padding: 20px;
+  margin-top: 30px;
+  text-align: center;
+  background-color: ghostwhite;
+}
+
+a{
+  margin-left: 20px;
+  margin-right: 20px;
+  
+}
+
+img{
+  width: 50px;
+  height:50px;
+}
+
+#filling-form{
+  margin-top: 60px;
+  margin-left: 70px;
+  margin-right: auto;
+}
+
+#su-bu{
+  color: white;
+  width: 130px;
+  border: 2px solid blue;
+  border-radius: 6px;
+  background-color: blue;
+  padding: 10px;
+  padding-left: 25px;
+  padding-right: 25px;
+}
+
+#bu{
+  margin: auto;
+  margin-bottom: 20px;
+  margin-left: 35%;
+}
